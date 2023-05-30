@@ -56,6 +56,10 @@ nav ul li a {
 
 }
 
+.font-medium {
+ font-size: 18px; 
+}
+
 #font-medium {
   font-size: 30px;
   font-weight: bold;
